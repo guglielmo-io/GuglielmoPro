@@ -14,9 +14,7 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GuglielmoPro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+---
 ### Thanks for Visiting my GitHub Profile!
 <p align="center">
 <img src="https://github.com/GuglielmoPro/contribution/blob/main/github-contribution-grid-snake.svg">
